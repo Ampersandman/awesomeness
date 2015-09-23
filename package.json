@@ -1,0 +1,31 @@
+{
+  "name": "awesomeness",
+  "version": "1.0.0",
+  "description": "Awesomeness totally",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://Ampersandman@github.com/Ampersandman/awesomeness.git"
+  },
+  "keywords": [
+    "awesomeness"
+  ],
+  "author": "david b",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ampersandman/awesomeness/issues"
+  },
+  "homepage": "https://github.com/Ampersandman/awesomeness",
+  "devDependencies": {
+    "bower": "^1.5.2",
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-less": "^3.0.3",
+    "jshint-stylish": "^2.0.1",
+    "karma": "^0.13.10",
+    "require-dir": "^0.3.0"
+  }
+}

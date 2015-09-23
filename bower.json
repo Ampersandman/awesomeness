@@ -1,0 +1,24 @@
+{
+  "name": "awesomeness",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Ampersandman/awesomeness",
+  "authors": [
+    "David Barz <david.barz@saitow.ag>"
+  ],
+  "description": "awesomeness",
+  "main": "build/index.html",
+  "keywords": [
+    "awesomness"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6"
+  }
+}
